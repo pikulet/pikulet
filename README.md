@@ -1,5 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=pikulet)
-
 - 🏢 ex-@dso ex-@govtech
 - 🌱 Currently working on final-year dissertation in trusted computing with SGX
 
