@@ -1,3 +1,3 @@
-![github stats](https://github-readme-stats.vercel.app/api?username=pikulet&count_private=true&theme=onedark)
+visit my [octoprofile](https://octoprofile.now.sh/user?id=pikulet)
 
-I also publish some [gists](https://gist.github.com/pikulet)
+my [gists](https://gist.github.com/pikulet)
