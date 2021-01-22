@@ -1,4 +1,4 @@
-![counter](https://kuute.herokuapp.com/pikulet)
+![counter](https://kuute.herokuapp.com/pikulet?)
 
 visit my [octoprofile](https://octoprofile.now.sh/user?id=pikulet)
 
