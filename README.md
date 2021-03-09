@@ -1,9 +1,3 @@
 attraversiamo~
 
-interests;
-
-- dystopian fiction 
-
-- strategy games
-
-- traditional chinese culture
+c: interested in dystopian fiction, strategy games and traditional chinese culture
