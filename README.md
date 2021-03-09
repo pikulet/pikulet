@@ -1,6 +1,6 @@
-~attraversiamo~
+attraversiamo~
 
 interests;
-x dystopian fiction 
-x strategy games
-x traditional chinese culture
+[x] dystopian fiction 
+[x] strategy games
+[x] traditional chinese culture
