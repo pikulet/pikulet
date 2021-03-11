@@ -1,6 +1,6 @@
 attraversiamo~
 
-current projects
+current projects/ cool ideas in the pipeline
 - chopstick graph visualiser
 - jotgo UI
 - divisibility game from brain china
